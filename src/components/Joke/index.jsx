@@ -1,4 +1,3 @@
-// Vytvořte komponentu Joke, která zobrazuje jeden vtip. Tato komponenta bude sídlit ve vlastní složce se všemi potřebnými CSS styly a obrázky. Komponenta Joke nechť má pět props: userAvatar, userName, text, likes, dislikes.
 import './style.css';
 import { useState } from 'react';
 
